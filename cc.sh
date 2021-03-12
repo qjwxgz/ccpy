@@ -12,7 +12,7 @@ fi
 function main(){
     echo "###       web tool v1.1        ###"
     echo "###  By GitHub@linux-terminal  ###"
-    echo "###    Update: 2020-07-06      ###"
+    echo "###    Update: 2021-03-12      ###"
     echo ""
     echo -e "\033[41;33m 适用环境 Debian \033[0m"
     echo "博客链接 yijunmeng.top \033[41;33m请给个星星\033[0m"
