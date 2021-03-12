@@ -15,7 +15,7 @@ function main(){
     echo "###    Update: 2020-07-06      ###"
     echo ""
     echo -e "\033[41;33m 适用环境 Debian \033[0m"
-    echo "Github链接 https://github.com/linux-terminal/cc \033[41;33m请给个星星\033[0m"
+    echo "博客链接 yijunmeng.top \033[41;33m请给个星星\033[0m"
     echo "---------------------------------------------------------------------------"
     echo -e "\033[41;33m 本脚本仅供测试使用！！不要作死！！请勿用于非法用途！！ \033[0m"
     echo -e "\033[41;33m 回车以继续，ctrl+C退出 \033[0m"
